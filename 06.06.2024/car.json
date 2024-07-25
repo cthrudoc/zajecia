@@ -1,0 +1,12 @@
+{
+    "car01": {"marka": "Toyota", "model": "Corolla", "rok": 2018},
+    "car02": {"marka": "Honda", "model": "Civic", "rok": 2019},
+    "car03": {"marka": "Ford", "model": "Focus", "rok": 2020},
+    "car04": {"marka": "Chevrolet", "model": "Malibu", "rok": 2017},
+    "car05": {"marka": "Nissan", "model": "Altima", "rok": 2021},
+    "car06": {"marka": "Hyundai", "model": "Elantra", "rok": 2016},
+    "car07": {"marka": "Volkswagen", "model": "Passat", "rok": 2015},
+    "car08": {"marka": "Kia", "model": "Optima", "rok": 2014},
+    "car09": {"marka": "Subaru", "model": "Impreza", "rok": 2013},
+    "car10": {"marka": "Mazda", "model": "Mazda3", "rok": 2012}
+}
